@@ -11,24 +11,16 @@
   <Item>акцент</Item>
   <Item>алмаз</Item>
   <Item>амнистия</Item>
-  <Item>амулет</Item>
   <Item>ангел</Item>
   <Item>апельсин</Item>
   <Item>артиллерия</Item>
-  <Item>ахинея</Item>
   <Item>абрикос</Item>
   <Item>автограф</Item>
-  <Item>баба</Item>
   <Item>бабочка</Item>
-  <Item>баклан</Item>
-  <Item>балада</Item>
   <Item>балет</Item>
-  <Item>бальзам</Item>
   <Item>банкет</Item>
   <Item>баня</Item>
   <Item>баржа</Item>
-  <Item>барон</Item>
-  <Item>башка</Item>
   <Item>бег</Item>
   <Item>беда</Item>
   <Item>бес</Item>
@@ -45,20 +37,16 @@
   <Item>веко</Item>
   <Item>венера</Item>
   <Item>верблюд</Item>
-  <Item>вердикт</Item>
-  <Item>вермишель</Item>
   <Item>ветка</Item>
   <Item>винт</Item>
   <Item>внук</Item>
   <Item>вонь</Item>
   <Item>вор</Item>
   <Item>вечер</Item>
-  <Item>выгода</Item>
   <Item>гром</Item>
   <Item>гений</Item>
   <Item>гиена</Item>
   <Item>гиря</Item>
-  <Item>гильза</Item>
   <Item>гимн</Item>
   <Item>гнев</Item>
   <Item>голос</Item>
@@ -76,11 +64,9 @@
   <Item>двигатель</Item>
   <Item>драма</Item>
   <Item>дезертир</Item>
-  <Item>деготь</Item>
   <Item>дерево</Item>
   <Item>десант</Item>
   <Item>диплом</Item>
-  <Item>доля</Item>
   <Item>дыня</Item>
   <Item>доска</Item>
   <Item>дрожжи</Item>
@@ -94,29 +80,20 @@
   <Item>егерь</Item>
   <Item>енот</Item>
   <Item>епархия</Item>
-  <Item>еретик</Item>
-  <Item>евангелие</Item>
   <Item>еда</Item>
-  <Item> ералаш</Item>
   <Item>ежевика</Item>
-  <Item>евразия</Item>
   <Item>европа</Item>
   <Item>египет</Item>
   <Item>евро</Item>
-  <Item>единоборство</Item>
   <Item>единорог</Item>
-  <Item>ересь</Item>
   <Item>ефрейтор</Item>
-  <Item>ехидна</Item>
   <Item>ёжик</Item>
   <Item>ёрш</Item>
   <Item>ёлка</Item>
-  <Item>ёмкость</Item>
   <Item>жаба</Item>
   <Item>желудок</Item>
   <Item>жерло</Item>
   <Item>жила</Item>
-  <Item>жокей</Item>
   <Item>жребий</Item>
   <Item>жандарм</Item>
   <Item>желудь</Item>
@@ -124,61 +101,43 @@
   <Item>жест</Item>
   <Item>живот</Item>
   <Item>жизнь</Item>
-  <Item>жеребец</Item>
   <Item>жетон</Item>
   <Item>жир</Item>
   <Item>жук</Item>
   <Item>журавль</Item>
   <Item>журнал</Item>
-  <Item>забава</Item>
   <Item>забастовка</Item>
-  <Item>забег</Item>
-  <Item>забегаловка</Item>
-  <Item>забияка</Item>
-  <Item>заблуждение</Item>
   <Item>забор</Item>
-  <Item>забулдыга</Item>
   <Item>зал</Item>
   <Item>заварка</Item>
-  <Item>занавес</Item>
-  <Item>завивка</Item>
   <Item>зависимость</Item>
   <Item>завистник</Item>
   <Item>завод</Item>
   <Item>заводь</Item>
   <Item>завтрак</Item>
   <Item>загадка</Item>
-  <Item>ива</Item>
   <Item>иван-чай</Item>
   <Item>игла</Item>
-  <Item>иго</Item>
   <Item>игра</Item>
   <Item>игрок</Item>
   <Item>идеал</Item>
   <Item>индейка</Item>
   <Item>идея</Item>
   <Item>идиот</Item>
-  <Item>идо</Item>
   <Item>изобретатель</Item>
   <Item>избушка</Item>
-  <Item>изверг</Item>
-  <Item>известие</Item>
   <Item>известь</Item>
   <Item>извилина</Item>
   <Item>изгиб</Item>
   <Item>йог</Item>
   <Item>йогурт</Item>
   <Item>йод</Item>
-  <Item>йота</Item>
-  <Item>кабак</Item>
   <Item>кабан</Item>
   <Item>кабель</Item>
   <Item>кабина</Item>
   <Item>каблук</Item>
   <Item>кабинет</Item>
   <Item>кабриолет</Item>
-  <Item>кавалер</Item>
-  <Item>кагор</Item>
   <Item>кадет</Item>
   <Item>кукушка</Item>
   <Item>кровать</Item>
@@ -187,7 +146,6 @@
   <Item>канистра</Item>
   <Item>кот</Item>
   <Item>квартира</Item>
-  <Item>каюк</Item>
   <Item>лабиринт</Item>
   <Item>лаваш</Item>
   <Item>лаборатория</Item>
@@ -210,7 +168,6 @@
   <Item>мина</Item>
   <Item>макароны</Item>
   <Item>мазь</Item>
-  <Item>манго</Item>
   <Item>майонез</Item>
   <Item>манекен</Item>
   <Item>масло</Item>
@@ -225,14 +182,11 @@
   <Item>мозг</Item>
   <Item>море</Item>
   <Item>наркоман</Item>
-  <Item>набат</Item>
   <Item>набойка</Item>
   <Item>набросок</Item>
   <Item>носок</Item>
   <Item>нос</Item>
   <Item>народ</Item>
-  <Item>навес</Item>
-  <Item>наводка</Item>
   <Item>навоз</Item>
   <Item>небо</Item>
   <Item>нашивка</Item>
@@ -249,17 +203,13 @@
   <Item>одежда</Item>
   <Item>озеро</Item>
   <Item>океан</Item>
-  <Item>око</Item>
   <Item>олень</Item>
-  <Item>омут</Item>
   <Item>опрос</Item>
   <Item>осада</Item>
   <Item>осёл</Item>
   <Item>осот</Item>
   <Item>отель</Item>
-  <Item>окула</Item>
   <Item>офицер</Item>
-  <Item>очаг</Item>
   <Item>палка</Item>
   <Item>парень</Item>
   <Item>пакет</Item>
@@ -286,16 +236,11 @@
   <Item>рвота</Item>
   <Item>ритуал</Item>
   <Item>рис</Item>
-  <Item>ром</Item>
   <Item>ртуть</Item>
-  <Item>развал</Item>
-  <Item>раса</Item>
   <Item>рисунок</Item>
   <Item>река</Item>
   <Item>религия</Item>
-  <Item>редька</Item>
   <Item>роза</Item>
-  <Item>рубин</Item>
   <Item>стая</Item>
   <Item>собака</Item>
   <Item>спина</Item>
@@ -314,7 +259,6 @@
   <Item>скотч</Item>
   <Item>слюна</Item>
   <Item>семечка</Item>
-  <Item>тумба</Item>
   <Item>табурет</Item>
   <Item>туалет</Item>
   <Item>тату</Item>
@@ -325,83 +269,52 @@
   <Item>трость</Item>
   <Item>тормоз</Item>
   <Item>трава</Item>
-  <Item>тунец</Item>
-  <Item>тыква</Item>
-  <Item>тундра</Item>
-  <Item>трюм</Item>
   <Item>труп</Item>
   <Item>трос</Item>
   <Item>тропинка</Item>
   <Item>угол</Item>
   <Item>удав</Item>
   <Item>уголь</Item>
-  <Item>утварь</Item>
-  <Item>уж</Item>
   <Item>узел</Item>
   <Item>узор</Item>
-  <Item>ум</Item>
-  <Item>ультиматум</Item>
   <Item>уран</Item>
   <Item>ураган</Item>
-  <Item>уста</Item>
   <Item>утка</Item>
   <Item>утро</Item>
   <Item>ущерб</Item>
-  <Item>ус</Item>
-  <Item>урал</Item>
   <Item>уксус</Item>
   <Item>фартук</Item>
   <Item>фабрика</Item>
   <Item>факел</Item>
   <Item>фанат</Item>
   <Item>ферма</Item>
-  <Item>ферзь</Item>
   <Item>флюорография</Item>
   <Item>фея</Item>
-  <Item>финка</Item>
   <Item>фонарь</Item>
   <Item>фура</Item>
   <Item>фильтр</Item>
   <Item>формула</Item>
   <Item>филе</Item>
-  <Item>флейта</Item>
-  <Item>фундук</Item>
-  <Item>флюгер</Item>
   <Item>фольга</Item>
   <Item>халат</Item>
   <Item>халва</Item>
   <Item>хрен</Item>
-  <Item>хватка</Item>
-  <Item>хаос</Item>
   <Item>хлеб</Item>
   <Item>холм</Item>
-  <Item>холера</Item>
   <Item>холод</Item>
-  <Item>хорек</Item>
   <Item>храм</Item>
   <Item>хоровод</Item>
-  <Item>хроника</Item>
-  <Item>халява</Item>
-  <Item>хам</Item>
   <Item>хвост</Item>
-  <Item>хворост</Item>
   <Item>холст</Item>
   <Item>цена</Item>
   <Item>цепь</Item>
   <Item>царь</Item>
   <Item>цвет</Item>
-  <Item>цеплёнок</Item>
-  <Item>цибуля</Item>
   <Item>цилиндр</Item>
-  <Item>цензура</Item>
   <Item>церковь</Item>
   <Item>цех</Item>
   <Item>центр</Item>
-  <Item>цинк</Item>
   <Item>цель</Item>
-  <Item>цикл</Item>
-  <Item>цитадель</Item>
-  <Item>цукат</Item>
   <Item>цемент</Item>
   <Item>царапина</Item>
   <Item>чебурашка</Item>
@@ -411,17 +324,11 @@
   <Item>чек</Item>
   <Item>череп</Item>
   <Item>чесотка</Item>
-  <Item>чин</Item>
-  <Item>чолка</Item>
-  <Item>чушь</Item>
-  <Item>чулан</Item>
   <Item>червь</Item>
-  <Item>чудо</Item>
   <Item>чулок</Item>
   <Item>чешуя</Item>
   <Item>чертёж</Item>
   <Item>чёрт</Item>
-  <Item>чужестранец</Item>
   <Item>шум</Item>
   <Item>шаг</Item>
   <Item>шпаргалка</Item>
@@ -429,8 +336,6 @@
   <Item>шланг</Item>
   <Item>штопор</Item>
   <Item>шар</Item>
-  <Item>шашка</Item>
-  <Item>шафер</Item>
   <Item>шея</Item>
   <Item>шина</Item>
   <Item>шип</Item>
@@ -446,11 +351,7 @@
   <Item>щи</Item>
   <Item>щука</Item>
   <Item>щель</Item>
-  <Item>щегол</Item>
-  <Item>щелкун</Item>
-  <Item>щелочь</Item>
   <Item>щенок</Item>
-  <Item>щепа</Item>
   <Item>щетина</Item>
   <Item>щетка</Item>
   <Item>щипцы</Item>
@@ -459,9 +360,7 @@
   <Item>эвакуатор</Item>
   <Item>эволюция</Item>
   <Item>эгоист</Item>
-  <Item>эйфория</Item>
   <Item>экватор</Item>
-  <Item>эквивалент</Item>
   <Item>экзамен</Item>
   <Item>эксперимент</Item>
   <Item>экспедиция</Item>
@@ -471,9 +370,7 @@
   <Item>электрик</Item>
   <Item>экран</Item>
   <Item>экономика</Item>
-  <Item>экосистема</Item>
   <Item>экология</Item>
-  <Item>эклер</Item>
   <Item>юбилей</Item>
   <Item>юбка</Item>
   <Item>ювелир</Item>
@@ -483,7 +380,6 @@
   <Item>юнга</Item>
   <Item>юрист</Item>
   <Item>юрта</Item>
-  <Item>юшка</Item>
   <Item>ябеда</Item>
   <Item>яблоко</Item>
   <Item>ягода</Item>
@@ -495,14 +391,118 @@
   <Item>язык</Item>
   <Item>яичница</Item>
   <Item>яйцо</Item>
-  <Item>як</Item>
   <Item>якорь</Item>
-  <Item>ястреб</Item>
   <Item>ясли</Item>
-  <Item>янтарь</Item>
   <Item>январь</Item>
   <Item>яма</Item>
   <Item>яхта</Item>
   <Item>ящерица</Item>
-  <Item>ресурс</Item>
+  <Item>доля</Item>
+  <Item>ром</Item>
+  <Item>усы</Item>
+  <Item>одеяло</Item>
+  <Item>книга</Item>
+  <Item>стол</Item>
+  <Item>телевизор</Item>
+  <Item>шкаф</Item>
+  <Item>коробка</Item>
+  <Item>холодильник</Item>
+  <Item>волосы</Item>
+  <Item>палец</Item>
+  <Item>грудь</Item>
+  <Item>нога</Item>
+  <Item>локоть</Item>
+  <Item>ноутбук</Item>
+  <Item>телефон</Item>
+  <Item>клавиатура</Item>
+  <Item>пульт</Item>
+  <Item>кран</Item>
+  <Item>часы</Item>
+  <Item>сумка</Item>
+  <Item>окно</Item>
+  <Item>балкон</Item>
+  <Item>крокодил</Item>
+  <Item>зебра</Item>
+  <Item>жираф</Item>
+  <Item>слон</Item>
+  <Item>карандаш</Item>
+  <Item>цветок</Item>
+  <Item>космонавт</Item>
+  <Item>луна</Item>
+  <Item>солнце</Item>
+  <Item>стрелка</Item>
+  <Item>поезд</Item>
+  <Item>вагон</Item>
+  <Item>таракан</Item>
+  <Item>джинсы</Item>
+  <Item>кросовки</Item>
+  <Item>удочка</Item>
+  <Item>ванна</Item>
+  <Item>спальня</Item>
+  <Item>кухня</Item>
+  <Item>шляпа</Item>
+  <Item>галстук</Item>
+  <Item>пистолет</Item>
+  <Item>автомат</Item>
+  <Item>самолет</Item>
+  <Item>танк</Item>
+  <Item>вертолет</Item>
+  <Item>граната</Item>
+  <Item>утюг</Item>
+  <Item>наушники</Item>
+  <Item>чайник</Item>
+  <Item>кофе</Item>
+  <Item>кофемашина</Item>
+  <Item>фен</Item>
+  <Item>конь</Item>
+  <Item>микроволновка</Item>
+  <Item>кирпич</Item>
+  <Item>порох</Item>
+  <Item>подкова</Item>
+  <Item>мангал</Item>
+  <Item>майка</Item>
+  <Item>бадлон</Item>
+  <Item>свитер</Item>
+  <Item>куртка</Item>
+  <Item>автобус</Item>
+  <Item>лак</Item>
+  <Item>краска</Item>
+  <Item>смартфон</Item>
+  <Item>карта</Item>
+  <Item>фильм</Item>
+  <Item>мыло</Item>
+  <Item>кресло</Item>
+  <Item>стоматолог</Item>
+  <Item>зуб</Item>
+  <Item>кариес</Item>
+  <Item>виноград</Item>
+  <Item>орех</Item>
+  <Item>вино</Item>
+  <Item>вентилятор</Item>
+  <Item>кондиционер</Item>
+  <Item>терминатор</Item>
+  <Item>робокоп</Item>
+  <Item>смурфик</Item>
+  <Item>батарея</Item>
+  <Item>рулетка</Item>
+  <Item>альбом</Item>
+  <Item>рыцарь</Item>
+  <Item>князь</Item>
+  <Item>борода</Item>
+  <Item>подводная лодка</Item>
+  <Item>газета</Item>
+  <Item>молоток</Item>
+  <Item>подвал</Item>
+  <Item>дискотека</Item>
+  <Item>аэропорт</Item>
+  <Item>скорая помощь</Item>
+  <Item>пожарник</Item>
+  <Item>доктор</Item>
+  <Item>паровоз</Item>
+  <Item>трамвай</Item>
+  <Item>рельса</Item>
+  <Item>ремень</Item>
+  <Item>рюмка</Item>
+  <Item>ухо</Item>
+  <Item>пианино</Item>
 </Root>
