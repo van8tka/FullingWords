@@ -227,7 +227,7 @@ namespace FullingWords
         {
             try
             {
-                if (!string.IsNullOrEmpty(NewFileName))
+                if (!string.IsNullOrEmpty(NewFileName) && !IsExistWord)
                 {
                     var path = Path.Combine(_storage.Path, NewFileName);               
                     var xdoc = new XDocument(new XElement("Root"));
